@@ -1,0 +1,23 @@
+{
+  "name": "my-playlist-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuval-shapira/My-Playlist-Server.git"
+  },
+  "author": "Yuval Shapira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuval-shapira/My-Playlist-Server/issues"
+  },
+  "homepage": "https://github.com/yuval-shapira/My-Playlist-Server#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
